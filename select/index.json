@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "DANCE ON TANSU",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-24T13:56:33.235507Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DANCE ON TANSU",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/01_DANCE_ON_TANSU_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dance On Tansu",
+      "artist": "Yabai T-Shirts Yasan",
+      "has_synced": true,
+      "path": "select/02_Dance_On_Tansu_Yabai_T-Shirts_Yasan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DANCE ON TANSU",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_DANCE_ON_TANSU_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DANCE ON TANSU",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_DANCE_ON_TANSU_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
