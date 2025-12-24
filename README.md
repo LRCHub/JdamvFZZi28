@@ -1,0 +1,58 @@
+# Yabai T-Shirts Yasan – DANCE ON TANSU
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+床一面に並べて
+タンスを一面に並べて
+その上で踊るんやそれが
+そうやDANCE ON タンスや
+
+何やこの歌の世界観
+何歌ってもええってもんとちゃう
+って分かってるけどそれでも歌う
+Yes? This is "Dance on タンス" や
+
+タンスの上で さあ DANCE and DANCE
+踊れ DANCE ON TANSU and DANCE ON TANSU
+なんやこれタンスの上で さあ DANCE and DANCE
+踊れ DANCE ON TANSU and DANCE ON TANSU
+
+これはもう ダンスフロアやない！
+そうこれはもう タンスフロアやない？
+一面タンスを敷き詰めたら
+それはもうまさにタンスフロアやない？
+
+一棹二棹三棹四棹
+数え切れんほど並べて
+盛り上がるだけなるだけそれだけ
+Yes? This is "Dance on タンス" や
+
+タンスの上で さあ DANCE and DANCE
+踊れ DANCE ON TANSU and DANCE ON TANSU
+なんやこれタンスの上で さあ DANCE and DANCE
+踊れ DANCE ON TANSU and DANCE ON TANSU
+
+床一面にタンスを並べて
+音楽流してその上で踊ったらもうタンスフロアやない？
+それがそうやん DANCE ON タンスやん
+
+引き出し開けたら中には
+やっぱりヤバイTシャツが
+びっしり入ってるんとちゃう？
+そんな感じちゃうん？ いや、タンスフロアってなんやねん
+
+タンスの上で さあ DANCE and DANCE
+踊れ DANCE ON TANSU and DANCE ON TANSU
+なんやこれタンスの上で さあ DANCE and DANCE
+踊れ DANCE ON TANSU and DANCE ON TANSU
+
+床一面にタンスを並べて
+音楽流してその上で踊ったらもうタンスフロアやない？
+それがそうやん DANCE ON タンスやん
+
+引き出し開けたら中には
+やっぱりヤバイTシャツが
+びっしり入ってるんとちゃう？
+そんな感じちゃうん？ いや、タンスフロアってなんやねん
+```
